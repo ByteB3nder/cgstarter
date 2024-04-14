@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a62e5b325e428cbc6acea78d8b36e0, type: 3}
+  m_Name: Version Config
+  m_EditorClassIdentifier: 
+  APIUrl: http://polygunstudios.com/versioncontrol.php
+  APIKey: 53bc0117-c000-403b-813e-6ef7426a71cc
